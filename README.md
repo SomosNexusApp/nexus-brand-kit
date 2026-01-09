@@ -1,5 +1,7 @@
 # Nexus - Brand Kit
 
+![Nexus Banner](IDENTIDAD%20NEXUSAPP/ESLOGAN/EsloganNexusOscuro.png)
+
 ## 📋 Índice
 - [Visión General](#visión-general)
 - [Lema de Marca](#lema-de-marca)
